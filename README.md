@@ -84,7 +84,7 @@ O sistema gera automaticamente:
 
 ## 🖼️ Prints do Sistema
 
-![imagens](tela.appsheet.png)
+![menu do app](mini_ERP_appsheet/imagens/tela.appsheet2.png)
 
 ---
 
