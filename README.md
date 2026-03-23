@@ -84,6 +84,8 @@ O sistema gera automaticamente:
 
 ## 🖼️ Prints do Sistema
 
+![imagens](tela.appsheet.png)
+
 ---
 
 ## 🚀 Próximas Evoluções
