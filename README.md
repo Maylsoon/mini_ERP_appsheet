@@ -84,7 +84,7 @@ O sistema gera automaticamente:
 
 ## 🖼️ Prints do Sistema
 
-![menu do app](reports/imagens/tela.appsheet2.png)
+![menu do app](imagens/tela.appsheet2.png)
 
 ---
 
