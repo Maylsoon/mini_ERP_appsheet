@@ -84,7 +84,13 @@ O sistema gera automaticamente:
 
 ## 🖼️ Prints do Sistema
 
+* menu do app:
+
 ![menu do app](imagens/tela.appsheet2.png)
+
+* tela de vendas:
+
+![vendas](imagens/tela.appsheet.png)
 
 ---
 
